@@ -2,6 +2,10 @@ name : LEE
 
 Age : 21
 
+<<<<<<< HEAD
 Hobby : 독서 , 여행 , 농구
+=======
+Hobby : 독서 , 여행 , 명상
+>>>>>>> 433d276 (이 취미추가)
 
 Friend : KIM
